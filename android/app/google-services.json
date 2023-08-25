@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475195821478",
+    "project_id": "bechde-c8f1d",
+    "storage_bucket": "bechde-c8f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475195821478:android:c927da3c7580275ca85367",
+        "android_client_info": {
+          "package_name": "com.bechde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475195821478-c68bltrqg2uj5sitrm6o89gk5ncsj2m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bechde",
+            "certificate_hash": "65150f784d1ad6e3b875541fff776adbb3ec62b8"
+          }
+        },
+        {
+          "client_id": "475195821478-pvpug5c0c4vliifjk6hsi60hvnmsd7nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_vr489H0hms_QPkNyb78z28ABPl1SVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475195821478-pvpug5c0c4vliifjk6hsi60hvnmsd7nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
